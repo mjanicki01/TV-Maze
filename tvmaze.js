@@ -1,7 +1,7 @@
 /** Search Shows
  *    - given a search term, search for tv shows that
  *      match that query.  The function is async show it
- *       will be returning a promise.
+ *      will be returning a promise.
  *
  *   - Returns an array of objects. Each object should include
  *     following show information:
